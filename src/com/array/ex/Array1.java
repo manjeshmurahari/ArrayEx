@@ -9,6 +9,17 @@ public class Array1 {
 			System.out.println("numbers "+num[i]);
 		}
 
+		int j=1;
+		int k=10;
+		int l=j+k;
+		System.out.println(l);
+		String hellow=message();
+		System.out.println(hellow+"... This is manjesh.....");
+	}
+	
+	public static String message()
+	{
+		return "hellow every one";
 	}
 
 }
