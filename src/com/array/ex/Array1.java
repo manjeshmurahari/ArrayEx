@@ -11,7 +11,7 @@ public class Array1 {
 
 		int j=1;
 		int k=10;
-		int l=j+j;
+		int l=j+k;
 		System.out.println(l);
 		String hellow=message();
 		System.out.println(hellow+"... This is manjesh.....");
